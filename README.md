@@ -1,6 +1,6 @@
 # Wall Ball
 
-A simple pixel art arcade game made for [Bratislava Game Jam](https://itch.io/jam/bratislava-game-jam-session-stay-home-edition).  
+A simple arcade game made for [Bratislava Game Jam](https://itch.io/jam/bratislava-game-jam-session-stay-home-edition).  
 The game can be played in the browser on [pixelook.itch.io/wall-ball](https://pixelook.itch.io/wall-ball).  
 Only local multiplayer is supported.
 
